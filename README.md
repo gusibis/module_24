@@ -1,37 +1,30 @@
 <html class="" dir="ltr" lang="en">
 
 <body class="with-left-side course-menu-expanded with-right-side assignments primary-nav-expanded full-width context-course_3251 responsive_student_grades_page webkit chrome no-touch">
-<h1 style="font-stretch: expanded; color:white; font-weight:bold;" class="title">Module 21 Challenge - deep-learning-challenge </h1>
+<h1 style="font-stretch: expanded; color:white; font-weight:bold;" class="title">Module 24 Challenge - deep-learning-challenge </h1>
 <img src="./banner.jpg" alt="lesson banner" tabindex="0" aria-label="lesson banner. Click to Enlarge." data-canonical-src="./banner.jpg" style="max-width: 100%;">
 <a><a href="https://www.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_17164388.htm#query=machine%20learning&position=14&from_view=keyword&track=ais">Image by rawpixel.com</a> on Freepik</a>
   
-  <h3>Background</h3>
-  <p>The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.</p>
-  <p>From Alphabet Soup’s business team, you have received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as:</p>
-
+  <h3>Project 4 Overview</h3>
+ 
   <ul>
-    <li>
-<strong>EIN</strong> and <strong>NAME</strong>—Identification columns</li>
-    <li>
-<strong>APPLICATION_TYPE</strong>—Alphabet Soup application type</li>
-    <li>
-<strong>AFFILIATION</strong>—Affiliated sector of industry</li>
-    <li>
-<strong>CLASSIFICATION</strong>—Government organization classification</li>
-    <li>
-<strong>USE_CASE</strong>—Use case for funding</li>
-    <li>
-<strong>ORGANIZATION</strong>—Organization type</li>
-    <li>
-<strong>STATUS</strong>—Active status</li>
-    <li>
-<strong>INCOME_AMT</strong>—Income classification</li>
-    <li>
-<strong>SPECIAL_CONSIDERATIONS</strong>—Special considerations for application</li>
-    <li>
-<strong>ASK_AMT</strong>—Funding amount requested</li>
-    <li>
-<strong>IS_SUCCESSFUL</strong>—Was the money used effectively</li>
+    <li> <strong>Find a problem worth solving, analyzing, or visualizing.</strong></li>
+    <li> <strong>Use machine learning (ML)</strong></li>
+    <li><strong>Use Scikit-learn and/or another machine learning library.</li>
+    <li><strong>Must be powered by a dataset with at least 100 records</li>
+    <li><strong>must use at least two of the following:</li>
+    <ul>
+        <li>Python Pandas</li>
+        <li>Python Matplotlib</li>
+        <li>HTML/CSS/Bootstrap</li>
+        <li>JavaScript Plotly</li>
+        <li>JavaScript Leaflet</li>
+        <li>SQL Database</li>
+        <li>MongoDB Database</li>
+        <li>Google Cloud SQL</li>
+        <li>Amazon AWS</li>
+        <li>Tableau</li>
+      </ul>
   </ul>
   <h3>Before You Begin</h3>
   <div class="content-section callout important title-above"><strong class="blockquote-title">important</strong><div>
