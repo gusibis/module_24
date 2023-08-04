@@ -1,13 +1,14 @@
 <html class="" dir="ltr" lang="en">
 
 <body class="with-left-side course-menu-expanded with-right-side assignments primary-nav-expanded full-width context-course_3251 responsive_student_grades_page webkit chrome no-touch">
-
+<h1 style="font-stretch: expanded; color:white; font-weight:bold;" class="title">Module 21 Challenge - deep-learning-challenge </h1>
 <img src="./banner.jpg" alt="lesson banner" tabindex="0" aria-label="lesson banner. Click to Enlarge." data-canonical-src="./banner.jpg" style="max-width: 100%;">
-  <h1 class="title">Module 21 Challenge - deep-learning-challenge </h1>
+<a><a href="https://www.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_17164388.htm#query=machine%20learning&position=14&from_view=keyword&track=ais">Image by rawpixel.com</a> on Freepik</a>
+  
   <h3>Background</h3>
   <p>The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.</p>
   <p>From Alphabet Soup’s business team, you have received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization, such as:</p>
-  <a><a href="https://www.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_17164388.htm#query=machine%20learning&position=14&from_view=keyword&track=ais">Image by rawpixel.com</a> on Freepik</a>
+
   <ul>
     <li>
 <strong>EIN</strong> and <strong>NAME</strong>—Identification columns</li>
