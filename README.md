@@ -2,7 +2,7 @@
 
 <body class="with-left-side course-menu-expanded with-right-side assignments primary-nav-expanded full-width context-course_3251 responsive_student_grades_page webkit chrome no-touch">
 
-<img src="https://camo.githubusercontent.com/4ceb0af39626d9ac33d1940a9ebcc5a9b304bfa1ed432ab133d149d8e82e1e57/68747470733a2f2f7374617469632e62632d6564782e636f6d2f646174612f646c2d312d322f6d32302f6c6d732f696d672f62616e6e65722e6a7067" alt="lesson banner" tabindex="0" aria-label="lesson banner. Click to Enlarge." data-canonical-src="./banner.jpg" style="max-width: 100%;">
+<img src="./banner.jpg" alt="lesson banner" tabindex="0" aria-label="lesson banner. Click to Enlarge." data-canonical-src="./banner.jpg" style="max-width: 100%;">
   <h1 class="title">Module 21 Challenge - deep-learning-challenge </h1>
   <h3>Background</h3>
   <p>The nonprofit foundation Alphabet Soup wants a tool that can help it select the applicants for funding with the best chance of success in their ventures. With your knowledge of machine learning and neural networks, you’ll use the features in the provided dataset to create a binary classifier that can predict whether applicants will be successful if funded by Alphabet Soup.</p>
