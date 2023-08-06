@@ -46,21 +46,21 @@
       <p>We obtained the data from https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/, years 2010 through 2023</p>  
       <p>Worded specifically with the "Ranked Measure Data"</p>
       <p>In the "The Teen Birth Rage Predictions" notebook we converted all to a dataframe with Pandas, merged all dataframes, removed NaNs.</p>
-      <p>We kept the columns 'FIPS', 'county', 'state', "Teen Birth Rate" per each year. FIPS stands for "Federal Information Processing Standard"</p> 
-      <p>Using supervised machine learning with a linear regression model we attempted to predict the of Teen Birth Rate for the years 2025, 2025, and 2027</p> 
-      <p>This information would be helpful to identify counties and states where the need to educate and help prevent Teen pregnancy</p>
+      <p>We kept the columns 'FIPS', 'county', 'state', "Teen Birth Rate" per each year. FIPS stands for "Federal Information Processing Standard."</p> 
+      <p>Using supervised machine learning with a linear regression model we attempted to predict the of Teen Birth Rate for the years 2025, 2026, and 2027.</p> 
+      <p>This information would be helpful to identify counties and states where the need to educate and help prevent Teen pregnancy.</p>
       <p> </p>
       <p> </p>
       <p> </p>
       <p> </p>
       <p> </p>
-    <h3> </h3>//this is to provide a bit of info about the other notebooks
+    <h3> </h3> <!-- this is to provide a bit of info about the other notebooks -->
       <p> </p>
       <p> </p>
       <p> </p>
       <p> </p>
       <p> </p>
-    <h3> </h3> //this is to provide a bit of info about the other notebooks
+    <h3> </h3> <!-- this is to provide a bit of info about the other notebooks-->
       <p> </p>
       <p> </p>
       <p> </p>
