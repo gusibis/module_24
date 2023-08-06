@@ -59,7 +59,7 @@
       <p> </p>
       <p> </p>
       <p> </p>
-   <li> <strong>Group members:</strong></li>
+   <h2> <strong>Group members:</strong></h2>
       <ul>
           <li>David Calero</li>
           <li>Joshua Mayo</li>
