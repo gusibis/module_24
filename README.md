@@ -13,7 +13,7 @@
           <li>Gustavo Bustillos</li>
           <li>Sperncer Duke</li>
         </ul>
-      <h3>Project 4 Overview</h3>
+      <h2>Project 4 Overview</h2>
       <li> <strong>Find a problem worth solving, analyzing, or visualizing.</strong></li>
       <li> <strong>Use machine learning (ML)</strong></li>
       <li><strong>Use Scikit-learn and/or another machine learning library.</li>
@@ -32,18 +32,39 @@
           <li>Tableau</li>
         </ul>
     </ul>
-    <h3>Group Work</h3>
-    <ul>
-        <li>Project ideation</li>
-        <li>Data fetching/API integration</li>
-        <li>Data analysis</li>
-        <li>Building the ML model</li>
-        <li>Testing</li>
-        <li>Creating documentation</li>
-        <li>Creating the presentation</li>
-    </ul>
-    <h3>Project Description</h3>
-    <p>We obtained the data from https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/</p>  
-    <p>The data was downloaded as .xlsx files and the selected the columns of interests which were already numeric </p>  
+    <h2>Group Work</h2>
+      <ul>
+          <li>Project ideation</li>
+          <li>Data fetching/API integration</li>
+          <li>Data analysis</li>
+          <li>Building the ML model</li>
+          <li>Testing</li>
+          <li>Creating documentation</li>
+          <li>Creating the presentation</li>
+      </ul>
+    <h2>Project Description</h2>
+      <p>We obtained the data from https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/, years 2010 through 2023</p>  
+      <p>Worded specifically with the "Ranked Measure Data"</p>
+      <p>In the "The Teen Birth Rage Predictions" notebook we converted all to a dataframe with Pandas, merged all dataframes, removed NaNs.</p>
+      <p>We kept the columns 'FIPS', 'county', 'state', "Teen Birth Rate" per each year. FIPS stands for "Federal Information Processing Standard"</p> 
+      <p>Using supervised machine learning with a linear regression model we attempted to predict the of Teen Birth Rate for the years 2025, 2025, and 2027</p> 
+      <p>This information would be helpful to identify counties and states where the need to educate and help prevent Teen pregnancy</p>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+    <h3> </h3>//this is to provide a bit of info about the other notebooks
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+    <h3> </h3> //this is to provide a bit of info about the other notebooks
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p> </p>
+      <p> </p>
   </body>
 </html>
