@@ -6,13 +6,6 @@
   <br>
   <br>
     <ul>
-      <li> <strong>Group members:</strong></li>
-      <ul>
-          <li>David Calero</li>
-          <li>Joshua Mayo</li>
-          <li>Gustavo Bustillos</li>
-          <li>Sperncer Duke</li>
-        </ul>
       <h2>Project 4 Overview</h2>
       <li> <strong>Find a problem worth solving, analyzing, or visualizing.</strong></li>
       <li> <strong>Use machine learning (ML)</strong></li>
@@ -66,5 +59,12 @@
       <p> </p>
       <p> </p>
       <p> </p>
+   <li> <strong>Group members:</strong></li>
+      <ul>
+          <li>David Calero</li>
+          <li>Joshua Mayo</li>
+          <li>Gustavo Bustillos</li>
+          <li>Sperncer Duke</li>
+    </ul>
   </body>
 </html>
