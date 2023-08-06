@@ -43,6 +43,7 @@
         <li>Creating the presentation</li>
     </ul>
     <h3>Project Description</h3>
-    <p></p>  
+    <p>We obtained the data from https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/</p>  
+    <p>The data was downloaded as .xlsx files and the selected the columns of interests which were already numeric </p>  
   </body>
 </html>
