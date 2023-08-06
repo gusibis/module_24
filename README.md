@@ -2,8 +2,8 @@
 
 <body class="with-left-side course-menu-expanded with-right-side assignments primary-nav-expanded full-width context-course_3251 responsive_student_grades_page webkit chrome no-touch">
 <h1 style="font-stretch: expanded; color:white; font-weight:bold;" class="title">Module 24 Challenge - Project 4</h1>
-<img src="./banner.jpg" alt="lesson banner" tabindex="0" aria-label="lesson banner. Click to Enlarge." data-canonical-src="./banner.jpg" style="max-width: 100%;"Image by rawpixel.com on Freepik>
-<a href="https://www.freepik.com/free-photo/ai-technology-brain-background-digital-transformation-concept_17164388.htm#query=machine%20learning&position=14&from_view=keyword&track=ais"></a>
+<img src="./banner.jpg" alt="lesson banner" tabindex="0" aria-label="lesson banner. Click to Enlarge." data-canonical-src="./banner.jpg" style="max-width: 100%;">
+<a href="http://www.freepik.com">Designed by upklyak / Freepik</a>
 <br>
 <br>
   <ul>
