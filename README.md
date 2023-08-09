@@ -36,35 +36,32 @@
           <li>Creating the presentation</li>
       </ul>
     <h2>Project Description</h2>
-      <p>We obtained the data from https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/, years 2010 through 2023</p>  
-      <p>Worded specifically with the "Ranked Measure Data"</p>
-      <p>In the "The Teen Birth Rage Predictions" notebook we converted all to a dataframe with Pandas, merged all dataframes, removed NaNs.</p>
+      <p>We obtained the data from https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/, years 2013 through 2023</p>  
+      <p>The data was cleaned and prepared using excel first and then with Pandas</p>
+      <p>In the "The Teen Birth Rate Predictions" notebook we converted all to a dataframe with Pandas, merged all dataframes, removed NaNs.</p>
       <p>We kept the columns 'FIPS', 'county', 'state', "Teen Birth Rate" per each year. FIPS stands for "Federal Information Processing Standard."</p> 
       <p>Using supervised machine learning with a linear regression model we attempted to predict the of Teen Birth Rate for the years 2025, 2026, and 2027.</p> 
       <p>This information would be helpful to identify counties and states where the need to educate and help prevent Teen pregnancy.</p>
+      <p>Reading the .xlsx files and converting them to a dataframe took shy of 2 minutes so we implemented storing the data into a database.</p>
+      <p>The process reading the converting the files to a dataframe shrunk to less than 3 seconds. </p>
+      <p>The R-squared resulted in 0.9593332454137964 which is very accurate</p>
       <p> </p>
-      <p> </p>
-      <p> </p>
-      <p> </p>
-      <p> </p>
-    <h3> </h3> <!-- this is to provide a bit of info about the other notebooks -->
-      <p> </p>
-      <p> </p>
-      <p> </p>
-      <p> </p>
-      <p> </p>
-    <h3> </h3> <!-- this is to provide a bit of info about the other notebooks-->
-      <p> </p>
-      <p> </p>
-      <p> </p>
-      <p> </p>
+    <h3>Children in Poverty Rate</h3> <!-- this is to provide a bit of info about the other notebooks -->
+      <p>From the same dataset we also used the children in poverty rate from the years 2013 through 2023 and used the linear regression model to predict the years 2025 - 2027.</p>
+      <p>The results were also very good with r-squared value of 0.9296094430298143</p>
+      <p>Both, the teen birth rate, and the children in poverty numbers have been declining since 2013 which is positive, however there some states that are somewhat behind.</p>
+    <h3>Visualizations</h3> <!-- this is to provide a bit of info about the other notebooks-->
+      <p>Using Tableau we created visualizations to help analyze the data.</p>
+      <p>A link to a presentation explaining the ETL performed and the rest of the process is available in this repository as well.</p>
+      <p>The visualizations link are contained in the presentation.</p>
+      <p>Python, Tableau and Excel were used to complete the project and the Python library used can be found in the presentation. </p>
       <p> </p>
    <h2> <strong>Group members:</strong></h2>
       <ul>
-          <li>David Calero</li>
-          <li>Joshua Mayo</li>
-          <li>Gustavo Bustillos</li>
-          <li>Sperncer Duke</li>
+        <li>David Calero</li>
+        <li>Joshua Mayo</li>
+        <li>Gustavo Bustillos</li>
+        <li>Sperncer Duke</li>
     </ul>
   </body>
 </html>
